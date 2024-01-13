@@ -83,6 +83,10 @@ body {
   font-size: 24px;
 }
 
+.title:hover{
+  color: hsl(47, 88%, 63%);
+} 
+
 @media screen and (max-width: 375px) {
     @import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;800&display=swap");
 
